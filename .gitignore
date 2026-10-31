@@ -1,0 +1,15 @@
+backend/.venv/
+backend/remind_ai.db
+backend/*.db
+backend/.env
+backend/app/models/*.onnx
+backend/app/models/*.partial
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Uploaded family photos/videos: private local data
+backend/uploads/
